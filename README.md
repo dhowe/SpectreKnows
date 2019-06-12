@@ -1,2 +1,3 @@
 # SpectreKnows
-The Spectre web site
+
+Worship at the altar of Dataism
